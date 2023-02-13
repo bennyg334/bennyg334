@@ -1,0 +1,9 @@
+void function(int a) {
+	return a + 1;
+}
+
+void function2(int a, int b);
+
+void main() {
+	function(9);
+}
